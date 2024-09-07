@@ -1,0 +1,17 @@
+.tottal{
+    background-color: gainsboro;
+    width: 450px;
+    height: auto;
+    padding: 20px 20px 20px 20px ;
+    line-height: 30px;
+    margin: auto;
+}
+.th1{
+    background-color: pink;
+}
+.th2{
+    background-color: rgb(205, 243, 133);
+}
+.th3{
+    background-color: #5bebeb;
+}
